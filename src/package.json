@@ -1,0 +1,17 @@
+{
+  "name": "bulma_template",
+  "version": "1.0.0",
+  "description": "Simple Bulma.io template with fontawsome and custom css generation",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Muehle",
+  "license": "MIT",
+  "repository":"https://github.com/Dev-Owl/bulma_template"
+  
+}
